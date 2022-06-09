@@ -11,3 +11,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 Imports: 
     lubridate
+URL: https://github.com/pedrolima01/meupacote003
+BugReports: https://github.com/pedrolima01/meupacote003/issues
